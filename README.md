@@ -9,17 +9,22 @@
 </div>
 
 ## Funcionalidades
-#### Apresentadas pelo curso<br>
-* Variaveis <br>
-* Double-quotes strings <br>
-* Loops `for` e `while` <br>
-* Estruturas condicionais `if/else` <br>
+#### Apresentadas pelo curso
+* Variaveis tipagens
+* Manipulação de Strings e Double-quotes
+* Loops `for` e `while`
+* Estruturas condicionais `if/else`
 
-#### Aprendidas pela documentação<br>
-* Funções <br>
-* Classes <br>
-* Estruturas condicionais: operador ternário e `switch/case`<br>
-* Require_once<br>
+#### Aprendidas pela documentação
+* Funções
+* Classes
+* Estruturas condicionais: operador ternário e `switch/case`
+* Inclusão de arquivo com o `require_once`
+
+#### Desafios
+* Exibição de numeros impares
+* Calculo de Tabuada
+* Calculo de IMC
 
 ## ☕ Time
 | [<img src="https://avatars.githubusercontent.com/u/138517578?v=4" alt="Diego Sabala" width="115"><br><span>Diego Sabala</span>](https://github.com/DiegoSabala) |
